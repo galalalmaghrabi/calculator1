@@ -22,6 +22,7 @@ body{
     border-radius: 5px;
     width: 100%;
     height: 65%;
+    font-size: 35px;
 }
 #btn {
     background-color: #fb0066;
